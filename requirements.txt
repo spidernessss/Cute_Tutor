@@ -1,0 +1,11 @@
+telegram
+python-telegram-bot
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+tqdm
+transformers
+sentence-transformers
+pymupdf
+python-dotenv
